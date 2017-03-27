@@ -1,0 +1,83 @@
+
+
+body, html{
+background-color: #009c46;
+background-image: url("https://www.transparenttextures.com/patterns/shattered-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+h1 { color: #3EBD75;
+  font-family: Audimat, Geneva, sans-serif;
+  font-size: 54px;
+  font-weight: 50;
+  line-height: 58px;
+  margin: 0 0 0;
+  text-align: center;
+}
+
+h2 { color: #142537;
+  font-family: Audimat, Geneva, sans-serif;
+  font-size: 54px;
+  font-weight: 100;
+  line-height: 58px;
+  margin: 0 0 58px;
+}
+
+h3 { color: #00612A;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 32px;
+  font-weight: 100;
+  line-height: 58px;
+  margin: 0 0 58px;
+  text-align: center;
+}
+
+.listing{
+  color : #435364;
+  margin: 5px 0;
+  padding : 10px;
+}
+
+
+li{
+  font-size: 26px;
+  line-height: 36px;
+  width: 80%;
+  top: 40px;
+  padding: 18px 20px 18px 20px;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+code{
+  padding: 3px 3px 3px 3px;
+  margin-bottom: 20px;
+  color : #4B6683;
+  font-size: 15px;
+}
+
+p {
+  font-size: 26px;
+  line-height: 36px;
+  color : #435364;
+}
+
+.divborder{
+  border-radius: 25px;
+  border: 2px solid #01080F;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.fileupload-example-1 {
+    color: #ffffff;
+    margin : 10px 10px 10px 10px;
+    padding : 10px 10px 10px 10px;
+    
+}
+
+.button{
+  color : blue;
+  
+}
+
